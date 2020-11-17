@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="Leandro Facchinetti Example ReaPack Repository">
+  <category name="Utility">
+    <reapack name="leafac_Mute.jsfx" type="effect">
+      <version name="1.0.0">
+        <source>https://github.com/leafac/reapack-example/raw/b98cdc106fc2126ce70a9fa61819fe003d625466/leafac_Mute.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+</index>
