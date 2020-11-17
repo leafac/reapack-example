@@ -1,0 +1,5 @@
+@sample
+
+channel = -1; loop(num_ch, channel += 1;
+  spl(channel) = 0;
+);
